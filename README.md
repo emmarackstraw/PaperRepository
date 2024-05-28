@@ -1,2 +1,2 @@
 # PaperRepository
-All of my public papers
+Repository of public papers not posted elsewhere
